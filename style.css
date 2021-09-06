@@ -1,0 +1,11 @@
+body{
+    background: linear-gradient(#00bfff 0%, #DFFF00 100%);
+    color: rgb(72, 255, 0);
+}
+#webcam{
+    height: 350px;
+    width: 350px;
+    border-style: dotted;
+    border-width: 2px;
+    border-color: black;
+}
